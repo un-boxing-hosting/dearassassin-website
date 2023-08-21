@@ -1,0 +1,24 @@
+{
+  "name": "@un-boxing-hosting/dearassassin",
+  "version": "1.0.0",
+  "description": "a boxinghosting website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un-boxing-hosting/dearassassin-website.git"
+  },
+  "author": "boxinghosting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/un-boxing-hosting/dearassassin-website/issues"
+  },
+  "homepage": "https://github.com/un-boxing-hosting/dearassassin-website#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
